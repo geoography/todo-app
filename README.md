@@ -54,8 +54,8 @@ Ganti fungsi di `TodoContext.jsx`:
 
 ## Catatan integrasi REST API (pertemuan berikutnya)
 
--[Menampilkan tugas](screenshots/tampilTodo.png)
--[Melihat detail tugas](screenshots/detailTodo.png)
--[Menambahkan tugas](screenshots/tambahTodo.png)
--[Memperbarui tugas](screenshots/updateTodo.png)
--[Menghapus tugas](screenshots/hapusTodo.png)
+-![Menampilkan tugas](screenshots/tampilTodo.png)
+-![Melihat detail tugas](screenshots/detailTodo.png)
+-![Menambahkan tugas](screenshots/tambahTodo.png)
+-![Memperbarui tugas](screenshots/updateTodo.png)
+-![Menghapus tugas](screenshots/hapusTodo.png)
