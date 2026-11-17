@@ -51,3 +51,11 @@ Ganti fungsi di `TodoContext.jsx`:
 - `addTodo` -> `POST /api/todos`
 - `updateTodo` -> `PUT /api/todos/:id`
 - `deleteTodo` -> `DELETE /api/todos/:id`
+
+## Catatan integrasi REST API (pertemuan berikutnya)
+
+-[Menampilkan tugas](screenshots/tampilTodo.png)
+-[Melihat detail tugas](screenshots/detailTodo.png)
+-[Menambahkan tugas](screenshots/tambahTodo.png)
+-[Memperbarui tugas](screenshots/updateTodo.png)
+-[Menghapus tugas](screenshots/hapusTodo.png)
